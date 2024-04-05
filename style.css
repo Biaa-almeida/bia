@@ -7,3 +7,7 @@
 .par2 {
     font-size: 20px;
 }
+.imagem {
+    width: 200%;
+    justify-content: center;
+}
