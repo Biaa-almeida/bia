@@ -16,5 +16,6 @@
 .imagem {
     width: 50%;
    background-color: bisque; 
-   text-align: center;
+   justify-content: center;
+
 }
