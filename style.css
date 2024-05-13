@@ -10,6 +10,10 @@
     color: rgb(0, 195, 255);
 }
 
+.par3 {
+    font: size 25px; 
+}
+
 .imagem {
     width: 50%;
    background-color: bisque; 
