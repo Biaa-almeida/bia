@@ -1,9 +1,4 @@
-.par1 {
-    font-size: 50px;
-    background-color: rgb(37, 67, 185);
-    text-align: center;
 
-}
 
 .par2 {
     font-size: 25px;
@@ -23,6 +18,7 @@
 
 .titulo1 {
     text-align: center;
+    background-color: blue;
 }
 
 .titulo2 { 
